@@ -8,7 +8,7 @@ Install
 -------
 
     # clone the repository
-    $ git clone https://github.com/tonyhdz24/Flash-Tutorial
+    $ git clone https://github.com/tonyhdz24/Flask-Tutorial
     $ cd Flash-Tutorial
 
 
